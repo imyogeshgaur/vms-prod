@@ -2,12 +2,12 @@ import firebase from "firebase";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBDu990Fa5nVoM1-mQmaxR9k--KDgm08VM",
-  authDomain: "vistor-management-system-1c98c.firebaseapp.com",
-  projectId: "vistor-management-system-1c98c",
-  storageBucket: "vistor-management-system-1c98c.appspot.com",
-  messagingSenderId: "492966676663",
-  appId: "1:492966676663:web:5bef6c59b220952d632532"
+  apiKey: "AIzaSyC61-NU1R2vUNIUynZxxzOGXMZ6nS0U-C8",
+  authDomain: "visitor-management-syste-3b19d.firebaseapp.com",
+  projectId: "visitor-management-syste-3b19d",
+  storageBucket: "visitor-management-syste-3b19d.appspot.com",
+  messagingSenderId: "149284958767",
+  appId: "1:149284958767:web:e78f51e48168afdad7ccda"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
